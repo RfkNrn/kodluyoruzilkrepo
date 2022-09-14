@@ -1,5 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+[Patika Hesabım](https://app.patika.dev/rfknrn)
 ![github](figures/github.PNG)
 
 ## Installation
